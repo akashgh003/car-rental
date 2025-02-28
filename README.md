@@ -1,25 +1,6 @@
-
-[![Linkedin Badge](https://img.shields.io/badge/Sametkaya-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samet-kaya-736604170/)
-![Instagram Badge](https://img.shields.io/badge/kaya67380@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
-
+# Screenshots
 
 ![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage.PNG)
-<br> 
-
-
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage2.PNG)
-<br> 
-
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage3.PNG)
-<br> 
-
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage4.PNG)
-<br> 
-
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage5.PNG)
-<br> 
-
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage6.PNG)
 <br> 
 
 ![LoginPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/LoginPage.PNG)
@@ -34,14 +15,6 @@
 ![AdminPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/AdminPage.PNG)
 <br> 
 
-![CarsPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/CarsPage.PNG)
-<br> 
-
-![CarUpdate](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/CarUpdate.PNG)
-<br> 
-
-![ColorPage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/ColorPage.PNG)
-<br> 
 
 # RentACarFrontEnd
 
