@@ -1,4 +1,4 @@
-# RentACarFrontEnd
+# CarRent
 ## Application Flow
 The following flowchart illustrates the complete user journey through our car rental system:
 
