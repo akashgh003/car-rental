@@ -1,7 +1,4 @@
 # RentACarFrontEnd
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
-
 ## Application Flow
 The following flowchart illustrates the complete user journey through our car rental system:
 
